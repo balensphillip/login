@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: rgb(233, 222, 244);
+}
+
+form{
+    height: 17rem;
+    width: 20rem;
+    border-radius: 1rem;
+    background-color: rgb(35, 90, 138);
+    margin: auto;
+    align-items: center;
+    margin-top: 8rem;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    margin: 0.5rem;
+    padding-top: 0.7rem;
+}
+
+.field{
+    margin: 10%;
+}
+
+.details{
+   margin: 0.7rem;
+   padding: 0.1rem;
+}
+
+label{
+    color: white;
+}
+
+input{
+    border-radius: 5rem;
+    height: 1.5rem;
+    width: 14rem;
+    border: 0.2rem;
+}
+
+.foo{
+    padding-left: 0.5rem;
+}
+
+#submit-button{
+    margin: 25%;
+    border-radius: 5rem;
+    width: 10rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
