@@ -11,7 +11,7 @@ form{
     height: 17rem;
     width: 20rem;
     border-radius: 1rem;
-    background-color: rgb(35, 90, 138);
+    background-color: rgb(175, 26, 163);
     margin: auto;
     align-items: center;
     margin-top: 8rem;
@@ -57,4 +57,9 @@ input{
     width: 14.5rem;
     margin-top: 0;
     margin-bottom: 0;
+}
+
+#submit-button:hover{
+    color: white;
+    background: rgb(56, 74, 190);
 }
