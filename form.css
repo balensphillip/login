@@ -48,10 +48,13 @@ input{
     padding-left: 0.5rem;
 }
 
+.field-2{
+    margin: 10%;
+}
+
 #submit-button{
-    margin: 25%;
     border-radius: 5rem;
-    width: 10rem;
+    width: 14.5rem;
     margin-top: 0;
     margin-bottom: 0;
 }
